@@ -6,4 +6,4 @@
 **Our mission** is to have a place to share knowledge, learn from each other and meet and mingle!
 
 **Our vision** is to share ideas, have others pickup those ideas, reflect on them, improve them, and at their turn share the improved ideas. 
-Creating a win-win for both the original idea owner and the improved idea owner as they learn from each other!
+Resulting in a win-win for both the original idea owner and the improved idea owner as they both learn from each other!
