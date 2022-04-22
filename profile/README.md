@@ -1,7 +1,7 @@
 ## Hi there 👋 Welcome to The Cloud Explorers Community
 
 
-**Our goal** is to create a benelux region oriented community for Cloud experts and enthusiasts specializing in any of the available Cloud platforms.
+**Our goal** is to create a benelux region oriented community for Cloud experts and enthusiasts who specialize in any of the available Cloud platforms.
 
 **Our mission** is to have a place to share knowledge, learn from each other and meet and mingle!
 
