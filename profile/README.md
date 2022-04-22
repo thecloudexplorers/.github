@@ -7,3 +7,8 @@
 
 **Our vision** is to share ideas, have others pickup those ideas, reflect on them, improve them, and at their turn share the improved ideas. 
 Resulting in a win-win for both the original idea owner and the improved idea owner as they both learn from each other!
+
+Currently we have the following memebers who share their experince and knowledge via personal blogs:
+
+- [Wesley Camargo - medium.com](https://camargo-wes.medium.com/)
+- [Jev Suchoi - devjev.nl](https://www.devjev.nl)
