@@ -12,3 +12,4 @@ Currently we have the following members who share their experience and knowledge
 
 - [Wesley Camargo - medium.com](https://camargo-wes.medium.com/)
 - [Jev Suchoi - devjev.nl](https://www.devjev.nl)
+- [Mike Beerman](https://bearman.nl)
