@@ -11,5 +11,6 @@ Resulting in a win-win for both the original idea owner and the improved idea ow
 Currently we have the following members who share their experience and knowledge via personal blogs, give us a ping if you would like contribute in a similar or any other way.
 
 - [Wesley Camargo - medium.com](https://camargo-wes.medium.com/)
-- [Jev Suchoi - devjev.nl](https://www.devjev.nl)
-- [Mike Beerman](https://bearman.nl)
+- [Jev Suchoi - devjev.nl](https://www.devjev.nl/)
+- [Mike Beerman - bearman.nl](https://bearman.nl/)
+- [Rutger Putter - blog.prutser.net](https://blog.prutser.net/)
