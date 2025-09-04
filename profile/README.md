@@ -1,14 +1,10 @@
-## Hi there 👋 Welcome to The Cloud Explorers Guild.
+Hi there 👋 Welcome to The Cloud Explorers Guild
 
+We’re building a community for **cloud experts** and enthusiasts (**across all platforms**) who want to share, learn, and grow together.
 
-**Our goal** is to create a benelux region oriented community for Cloud experts and enthusiasts who specialize in any of the available Cloud platforms.
-
-**Our mission** is to have a place to share knowledge, learn from each other and have fun with technology!
-
-**Our vision** is to share ideas, have others pickup those ideas, reflect on them, improve them, and at their turn share the improved ideas. 
-Resulting in a win-win for both the original idea owner and the improved idea owner as they both learn from each other!
-
-Currently we have the following members who share their experience and knowledge via personal blogs, give us a ping if you would like contribute in a similar or any other way.
+- Our mission: create a space to exchange knowledge and experience.
+- Our goal: **shave complexity in the cloud**.
+- Our vision: ideas don’t just get shared, they evolve. You put something forward, others pick it up, reflect, improve, and pass it on. Everyone learns, and everyone wins.
 
 - [Wesley Camargo - medium.com](https://camargo-wes.medium.com/)
 - [Jev Suchoi - devjev.nl](https://www.devjev.nl/)
